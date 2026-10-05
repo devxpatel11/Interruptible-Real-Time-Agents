@@ -2,7 +2,7 @@
 
 > **Team StateShift** · VIT Vellore · Samsung PRISM GenAI Hackathon 2026 · **Theme 05: Interruptible Real-Time Agents**
 >
-> **Demo video:** [Google Drive](https://drive.google.com/file/d/1YndsB2Jcz9WDvcaM8tGXdfnDzBvDV7bU/view?usp=sharing) · **Slides:** [`docs/VITVellore_StateShift_Submission.pptx`](docs/VITVellore_StateShift_Submission.pptx) · **AI-usage declaration:** 
+> **Demo video:** [Google Drive](https://drive.google.com/file/d/1YndsB2Jcz9WDvcaM8tGXdfnDzBvDV7bU/view?usp=sharing) · **Slides:** [`docs/VITVellore_StateShift_Submission.pptx`](docs/VITVellore_StateShift_Submission.pptx)
 
 ---
 
